@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/His
 - 💬 Do you know about Fiddler and his Joyful Union?
 - 💭 Principle: Everything is a matter of perspective, really everything
-- 📫 How to reach me: jakobmeyer.feu@gmail.com or via (./img/linkedin-light.svg)[linkedin]
+- 📫 How to reach me: jakobmeyer.feu@gmail.com or via [LinkedIn][linkedin]
 
 <--
 - [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
