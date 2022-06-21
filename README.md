@@ -8,17 +8,7 @@
 - 💭 Principle: Everything is a matter of perspective, really everything
 - 📫 How to reach me: jakobmeyer.feu@gmail.com or via [LinkedIn][linkedin]
 
-<--
-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: 
--->
-
 ---
-
 
 <details>
   <summary>:zap: Activity</summary>
