@@ -15,7 +15,6 @@
   <summary>:zap: Activity</summary>
 <!--START_SECTION:activity-->
 </details>
--->
 
 <details>
   <summary>:zap: Stats</summary>
